@@ -1,12 +1,5 @@
----
----
-
-@import "{{ site.theme }}";
-
-/* CUSTOM CSS */
-
 /* main-container */
-.container-lg{
+.container-lg, .container{
     max-width: 800px;
     background: white; /* porto pink #FFD1CE; */
 }
