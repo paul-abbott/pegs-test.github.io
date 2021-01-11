@@ -1,7 +1,9 @@
+/* test pink back */
+
 /* main-container */
-.container-lg, .container{
+.container{
     max-width: 800px;
-    background: white; /* porto pink #FFD1CE; */
+    background: #FFD1CE;
 }
 
 .markdown-body, body{
